@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Every action has an equal and opposite reaction."
 Use the left arrow to go back!
